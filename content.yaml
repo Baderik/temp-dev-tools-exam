@@ -3,4 +3,6 @@ title: StrangeYaml
 team:
   - name: 'Pavel'
   
-  - name: 'Amina'
+    name: 'Amina'
+    github: 'aminauuu'
+    email: 'ukhachinaami@gmail.com'
