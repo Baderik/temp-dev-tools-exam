@@ -2,7 +2,9 @@ title: StrangeYaml
 
 team:
   - name: 'Pavel'
-  
-    name: 'Amina'
+    github: 'Baderik'
+    email: 'baderik.pm@dvfu.ru'
+
+  - name: 'Amina'
     github: 'aminauuu'
     email: 'ukhachinaami@gmail.com'
